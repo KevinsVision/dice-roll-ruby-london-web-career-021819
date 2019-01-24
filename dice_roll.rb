@@ -4,5 +4,5 @@
 
 def roll
   # code goes here
-    Array.new(6)
+    Array.new(6) {
 end
