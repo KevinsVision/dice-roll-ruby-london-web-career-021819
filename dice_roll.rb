@@ -4,6 +4,6 @@
 
 def roll
   # code goes here
-  x = [1,2,3,4,5,6]
-  1 + rand(x)
+  array = [1,2,3,4,5,6]
+  1 + rand(array)
 end
