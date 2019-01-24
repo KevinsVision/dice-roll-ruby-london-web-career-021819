@@ -4,5 +4,5 @@
 
 def roll
   # code goes here
-    Array.new() { rand (1...6)}
+    Array.new(1) { rand (1...6)}
 end
